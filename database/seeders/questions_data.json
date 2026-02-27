@@ -1,0 +1,2902 @@
+{
+  "questions": [
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "Global",
+      "pertanyaan": "Saya lebih mudah memahami sesuatu jika dijelaskan secara gambaran besar terlebih dahulu.",
+      "order": 1
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung fokus pada tujuan utama daripada rincian kecil dari suatu pekerjaan.",
+      "order": 2
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa perlu memahami setiap detail kecil sebelum melihat gambaran besarnya.",
+      "order": 3
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "Specific",
+      "pertanyaan": "Saya merasa lebih nyaman ketika suatu hal dijelaskan secara detail dan terperinci.",
+      "order": 4
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "",
+      "pertanyaan": "Perhatian saya sering tertuju pada langkah-langkah kecil daripada gambaran keseluruhan.",
+      "order": 5
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 1 — Chunk Size",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang memperhatikan detail dan lebih fokus pada gambaran besar saja.",
+      "order": 6
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "Sameness",
+      "pertanyaan": "Ketika menghadapi hal baru, saya biasanya mencari apa kesamaannya dengan pengalaman sebelumnya.",
+      "order": 7
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa nyaman jika sesuatu masih mirip dengan apa yang sudah saya kenal.",
+      "order": 8
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih tertarik pada perbedaan daripada persamaan suatu hal.",
+      "order": 9
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "Difference",
+      "pertanyaan": "Saya langsung memperhatikan perbedaan ketika membandingkan dua hal.",
+      "order": 10
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "",
+      "pertanyaan": "Hal baru terasa menarik bagi saya karena berbeda dari yang sudah ada.",
+      "order": 11
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 2 — Relationship Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung mengabaikan perbedaan dan hanya fokus pada kesamaan.",
+      "order": 12
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "Visual",
+      "pertanyaan": "Saya lebih mudah memahami informasi melalui gambar, diagram, atau tampilan visual.",
+      "order": 13
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering membayangkan sesuatu dalam bentuk gambar di pikiran saya.",
+      "order": 14
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Gambar atau tampilan visual tidak terlalu membantu saya memahami sesuatu.",
+      "order": 15
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "Auditory",
+      "pertanyaan": "Saya lebih mudah memahami sesuatu ketika dijelaskan secara lisan.",
+      "order": 16
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering mengingat informasi dalam bentuk suara atau percakapan.",
+      "order": 17
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Penjelasan lisan biasanya sulit saya pahami.",
+      "order": 18
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "Kinesthetic",
+      "pertanyaan": "Saya memahami sesuatu dengan lebih baik jika mencobanya langsung.",
+      "order": 19
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Pengalaman langsung membuat saya lebih cepat paham.",
+      "order": 20
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak perlu praktik langsung untuk memahami sesuatu.",
+      "order": 21
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "Language",
+      "pertanyaan": "Saya merasa nyaman memahami sesuatu melalui kata-kata dan penjelasan tertulis.",
+      "order": 22
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Membaca atau menuliskan ulang informasi membantu saya memahaminya.",
+      "order": 23
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 3 — Representational System Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya kesulitan memahami informasi dalam bentuk tulisan.",
+      "order": 24
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "Sensor",
+      "pertanyaan": "Saya lebih percaya pada informasi yang dapat saya lihat atau dengar secara langsung.",
+      "order": 25
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "",
+      "pertanyaan": "Fakta, data, dan bukti konkret penting bagi saya sebelum mengambil keputusan.",
+      "order": 26
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih percaya firasat dibandingkan bukti nyata.",
+      "order": 27
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "Intuitor",
+      "pertanyaan": "Saya sering mengikuti intuisi atau perasaan batin ketika mengambil keputusan.",
+      "order": 28
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "",
+      "pertanyaan": "Makna tersembunyi di balik suatu peristiwa lebih penting bagi saya daripada faktanya.",
+      "order": 29
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 4 & 5 — Information Gathering Sort",
+      "sub_meta": "",
+      "pertanyaan": "aya jarang memperhatikan intuisi atau firasat pribadi dalam memahami sesuatu.",
+      "order": 30
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "Black–White",
+      "pertanyaan": "Saya cenderung melihat suatu hal sebagai benar atau salah dengan jelas.",
+      "order": 31
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kejelasan dan kepastian penting bagi saya dalam menilai suatu situasi.",
+      "order": 32
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "",
+      "pertanyaan": "Menurut saya, suatu masalah tidak selalu punya satu jawaban yang pasti.",
+      "order": 33
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "Continuum",
+      "pertanyaan": "Saya memahami bahwa suatu hal dapat berubah tergantung konteks.",
+      "order": 34
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mempertimbangkan berbagai tingkat sebelum menilai sesuatu.",
+      "order": 35
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 6 — Perceptual Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih nyaman dengan penilaian yang mutlak.",
+      "order": 36
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "Screeners",
+      "pertanyaan": "Saya dapat tetap fokus meskipun ada gangguan di sekitar.",
+      "order": 37
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mampu menyaring informasi dan fokus pada hal yang paling penting.",
+      "order": 38
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah terdistraksi oleh lingkungan sekitar saat mengerjakan suatu hal.",
+      "order": 39
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "Non-Screeners",
+      "pertanyaan": "Suara atau kondisi sekitar mudah menarik perhatian saya.",
+      "order": 40
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah memperhatikan berbagai hal sekaligus, termasuk detail kecil di sekitar.",
+      "order": 41
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 9 — Focus Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang terganggu oleh kondisi sekitar ketika sedang fokus.",
+      "order": 42
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "Why",
+      "pertanyaan": "Saya sering ingin mengetahui alasan di balik suatu kejadian.",
+      "order": 43
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "",
+      "pertanyaan": "Memahami penyebab suatu masalah penting bagi saya.",
+      "order": 44
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang tertarik mengetahui alasan terjadinya sesuatu.",
+      "order": 45
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "How",
+      "pertanyaan": "Saya lebih tertarik pada cara melakukan sesuatu daripada alasannya.",
+      "order": 46
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "",
+      "pertanyaan": "Bagi saya, cara melakukan sesuatu lebih penting daripada asal-usulnya.",
+      "order": 47
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 10 — Philosophical Direction",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih tertarik pada alasan filosofis dibanding solusi praktis.",
+      "order": 48
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "Static",
+      "pertanyaan": "Saya lebih nyaman dengan keadaan yang stabil dan tidak banyak perubahan.",
+      "order": 49
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Menurut saya, sifat dasar sesuatu jarang berubah.",
+      "order": 50
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya melihat segala sesuatu sebagai proses yang terus berubah.",
+      "order": 51
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "Process",
+      "pertanyaan": "Saya melihat banyak hal sebagai sesuatu yang terus berkembang.",
+      "order": 52
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Perubahan adalah bagian alami dari realitas menurut saya.",
+      "order": 53
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 11 — Reality Structure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih melihat hasil akhir daripada proses yang berjalan.",
+      "order": 54
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "VAK",
+      "pertanyaan": "Saya yakin setelah melihat, mendengar, atau merasakan langsung.",
+      "order": 55
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Bukti pengalaman langsung membuat saya percaya.",
+      "order": 56
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak membutuhkan pengalaman langsung untuk percaya.",
+      "order": 57
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "Language",
+      "pertanyaan": "Penjelasan verbal atau tulisan membuat saya yakin.",
+      "order": 58
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kata-kata yang meyakinkan cukup bagi saya.",
+      "order": 59
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 17 — Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Penjelasan dengan kata-kata tidak memengaruhi keyakinan saya.",
+      "order": 60
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "Procedures",
+      "pertanyaan": "Saya lebih nyaman mengikuti langkah yang sudah jelas.",
+      "order": 61
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "",
+      "pertanyaan": "Aturan membantu saya bekerja dengan baik.",
+      "order": 62
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak suka mengikuti cara yang sudah ditetapkan.",
+      "order": 63
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "Options",
+      "pertanyaan": "Saya suka memiliki banyak pilihan dalam bekerja.",
+      "order": 64
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "",
+      "pertanyaan": "Kebebasan memilih cara kerja penting bagi saya.",
+      "order": 65
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 21 — Adaptation Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih nyaman mengikuti satu cara yang sama.",
+      "order": 66
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "Judger",
+      "pertanyaan": "Saya lebih suka menyelesaikan tugas sebelum batas waktu.",
+      "order": 67
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kepastian membuat saya merasa tenang.",
+      "order": 68
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya nyaman dengan hal-hal yang belum pasti.",
+      "order": 69
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "Perceiver",
+      "pertanyaan": "Saya fleksibel terhadap perubahan rencana.",
+      "order": 70
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya nyaman bekerja tanpa keputusan final di awal.",
+      "order": 71
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 22 — Adaptation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak suka perubahan mendadak.",
+      "order": 72
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "Quantitative",
+      "pertanyaan": "Saya lebih mudah menilai sesuatu jika tersedia angka, ukuran, atau perhitungan yang jelas.",
+      "order": 73
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "",
+      "pertanyaan": "Data numerik membantu saya membuat keputusan secara lebih objektif.",
+      "order": 74
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang menggunakan angka sebagai dasar penilaian.",
+      "order": 75
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "Qualitative",
+      "pertanyaan": "Saya menilai sesuatu berdasarkan kualitas, makna, atau kesan secara menyeluruh.",
+      "order": 76
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "",
+      "pertanyaan": "Pengalaman subjektif lebih penting bagi saya dibanding perhitungan angka.",
+      "order": 77
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 35 – Comparison Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya mempercayai sesuatu jika disertai angka yang jelas.",
+      "order": 78
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "Modeling",
+      "pertanyaan": "Saya belajar lebih cepat dengan mengamati cara orang lain melakukan sesuatu.",
+      "order": 79
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Contoh nyata membantu saya memahami materi dengan lebih baik.",
+      "order": 80
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya sulit belajar hanya dengan melihat contoh dari orang lain.",
+      "order": 81
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "Conceptualizing",
+      "pertanyaan": "Saya memahami sesuatu dengan baik ketika konsep atau teorinya dijelaskan dengan jelas.",
+      "order": 82
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya menyukai pemahaman yang berbasis kerangka berpikir atau teori.",
+      "order": 83
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya kurang tertarik pada penjelasan berbentuk teori atau konsep.",
+      "order": 84
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "Demonstrating",
+      "pertanyaan": "Saya lebih memahami sesuatu ketika dapat langsung mempraktikkannya.",
+      "order": 85
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Belajar sambil melakukan membuat saya lebih mudah memahami materi.",
+      "order": 86
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak terlalu membutuhkan praktik langsung untuk memahami sesuatu.",
+      "order": 87
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "Experiencing",
+      "pertanyaan": "Pengalaman pribadi menjadi sumber utama pembelajaran bagi saya.",
+      "order": 88
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya belajar paling banyak dari pengalaman yang saya alami sendiri.",
+      "order": 89
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Pengalaman pribadi tidak terlalu memengaruhi cara saya belajar.",
+      "order": 90
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "Authorizing",
+      "pertanyaan": "Saya mempercayai informasi ketika berasal dari sumber yang berwenang atau ahli.",
+      "order": 91
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Pendapat dari figur otoritas sangat memengaruhi keyakinan saya.",
+      "order": 92
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 36 – Knowledge Source",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang mempertimbangkan siapa sumber informasi tersebut.",
+      "order": 93
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "Closure",
+      "pertanyaan": "Saya merasa tidak nyaman jika suatu pekerjaan belum selesai sepenuhnya.",
+      "order": 94
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Menyelesaikan tugas sampai tuntas memberi saya kepuasan tersendiri.",
+      "order": 95
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "",
+      "pertanyaan": "(Skala: 6 = sangat Closure, 1 = sangat tidak Closure)",
+      "order": 96
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "Non-Closure",
+      "pertanyaan": "Saya tetap merasa nyaman meskipun ada pekerjaan yang masih terbuka atau belum selesai.",
+      "order": 97
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya fleksibel terhadap proses yang berjalan tanpa harus segera dituntaskan.",
+      "order": 98
+    },
+    {
+      "kategori": "THE MENTAL META-PROGRAMS",
+      "meta_program": "MP 37 – Closure Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya harus selalu menyelesaikan semua hal secepat mungkin.",
+      "order": 99
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "Passive",
+      "pertanyaan": "Saat stres, saya cenderung menunggu keadaan membaik sendiri.",
+      "order": 100
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya memilih diam ketika menghadapi tekanan.",
+      "order": 101
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya langsung menghadapi masalah tanpa menghindar.",
+      "order": 102
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "Fight",
+      "pertanyaan": "Saat tertekan, saya melawan atau menghadapi masalah secara langsung.",
+      "order": 103
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya berusaha mengendalikan situasi ketika berada di bawah tekanan.",
+      "order": 104
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya menghindari konflik dalam kondisi apa pun.",
+      "order": 105
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "Flight",
+      "pertanyaan": "Saya cenderung menghindari sumber stres.",
+      "order": 106
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Menjauh dari situasi sulit membuat saya lebih tenang.",
+      "order": 107
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 13 — Stress Coping Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tetap menghadapi masalah meskipun merasa tertekan.",
+      "order": 108
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "Associated",
+      "pertanyaan": "Saya mudah larut dalam emosi yang saya rasakan.",
+      "order": 109
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasakan emosi dengan intens ketika suatu hal terjadi.",
+      "order": 110
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "",
+      "pertanyaan": "Saya bisa melihat emosi saya secara terpisah.",
+      "order": 111
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "Dissociated",
+      "pertanyaan": "Saya mampu menjaga jarak dari emosi saya.",
+      "order": 112
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "",
+      "pertanyaan": "Saya dapat menilai situasi tanpa terbawa perasaan.",
+      "order": 113
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 15 — Emotional State",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah tenggelam dalam emosi.",
+      "order": 114
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "Uni-Directional",
+      "pertanyaan": "Emosi saya biasanya fokus pada satu hal saja.",
+      "order": 115
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sulit merasakan dua emosi berbeda secara bersamaan.",
+      "order": 116
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering merasakan banyak emosi sekaligus.",
+      "order": 117
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "Multi-Directional",
+      "pertanyaan": "Saya dapat merasakan beberapa emosi dalam waktu bersamaan.",
+      "order": 118
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "",
+      "pertanyaan": "Perasaan saya bisa bercampur antara senang dan sedih.",
+      "order": 119
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 18 — Emotional Direction Sort",
+      "sub_meta": "",
+      "pertanyaan": "Emosi saya selalu hanya satu jenis.",
+      "order": 120
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "Desurgency",
+      "pertanyaan": "Saya cenderung tenang dalam berbagai situasi.",
+      "order": 121
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "",
+      "pertanyaan": "Emosi saya biasanya stabil.",
+      "order": 122
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah terbawa emosi yang kuat.",
+      "order": 123
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "Surgency",
+      "pertanyaan": "Saya merasakan emosi dengan intensitas tinggi.",
+      "order": 124
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "",
+      "pertanyaan": "Perasaan saya mudah naik dan turun.",
+      "order": 125
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 19 — Emotional Intensity Sort",
+      "sub_meta": "",
+      "pertanyaan": "Emosi saya jarang terasa kuat.",
+      "order": 126
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "Conditional",
+      "pertanyaan": "Saya merasa lebih berharga ketika saya berhasil atau diakui orang lain.",
+      "order": 127
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "",
+      "pertanyaan": "Harga diri saya sering dipengaruhi oleh penilaian dari lingkungan.",
+      "order": 128
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa bernilai tanpa bergantung pada pencapaian atau pengakuan.",
+      "order": 129
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "Unconditional",
+      "pertanyaan": "Saya menghargai diri saya apa adanya tanpa harus membuktikan sesuatu.",
+      "order": 130
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "",
+      "pertanyaan": "Nilai diri saya tidak bergantung pada penilaian orang lain.",
+      "order": 131
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 42 – Self-Esteem",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya merasa berharga ketika orang lain mengakui saya.",
+      "order": 132
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "Low Self-Confidence",
+      "pertanyaan": "Saya sering meragukan kemampuan diri saya sendiri dalam menghadapi tantangan.",
+      "order": 133
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung merasa tidak cukup mampu dibandingkan orang lain.",
+      "order": 134
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya yakin dengan kemampuan diri saya dalam berbagai situasi.",
+      "order": 135
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "High Self-Confidence",
+      "pertanyaan": "Saya percaya bahwa saya mampu menghadapi tantangan yang muncul dalam hidup saya.",
+      "order": 136
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya yakin dapat belajar dan berkembang meskipun menghadapi kegagalan.",
+      "order": 137
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 43 — State Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering merasa tidak yakin dengan kemampuan diri saya sendiri.",
+      "order": 138
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "Proactive",
+      "pertanyaan": "Saya mampu mengendalikan diri dalam situasi sulit.",
+      "order": 139
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "",
+      "pertanyaan": "Saya berpikir sebelum bereaksi.",
+      "order": 140
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "",
+      "pertanyaan": "Tekanan membuat saya langsung bereaksi tanpa kontrol.",
+      "order": 141
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "Reactive",
+      "pertanyaan": "Saya mudah bereaksi secara spontan saat tertekan.",
+      "order": 142
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "",
+      "pertanyaan": "Emosi saya muncul dengan cepat ketika ada tekanan.",
+      "order": 143
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 49 — Ego Strength",
+      "sub_meta": "",
+      "pertanyaan": "Saya tetap tenang di bawah tekanan.",
+      "order": 144
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "Optimist",
+      "pertanyaan": "Ketika sesuatu tidak berjalan baik, saya tetap melihat peluang untuk belajar dan berkembang.",
+      "order": 145
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya percaya hal buruk bisa diperbaiki di masa depan.",
+      "order": 146
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering merasa bahwa keadaan buruk akan terus berulang.",
+      "order": 147
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "Pessimist",
+      "pertanyaan": "Saya cenderung mengantisipasi kemungkinan terburuk dalam suatu situasi.",
+      "order": 148
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kegagalan sering saya anggap sebagai tanda bahwa sesuatu akan sulit berubah.",
+      "order": 149
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 7 — Attribution Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya biasanya yakin bahwa keadaan akan membaik seiring waktu.",
+      "order": 150
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "Permeable",
+      "pertanyaan": "Pandangan saya mudah berubah ketika menerima informasi baru.",
+      "order": 151
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya terbuka untuk menyesuaikan cara berpikir jika situasi menuntut.",
+      "order": 152
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "",
+      "pertanyaan": "Pendapat saya sulit berubah walaupun ada bukti baru.",
+      "order": 153
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "Impermeable",
+      "pertanyaan": "Saya cenderung mempertahankan keyakinan saya meskipun ada pendapat berbeda.",
+      "order": 154
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "",
+      "pertanyaan": "Sekali saya percaya pada sesuatu, saya jarang mengubahnya.",
+      "order": 155
+    },
+    {
+      "kategori": "THE EMOTIONAL META-PROGRAMS",
+      "meta_program": "MP 8 — Perceptual Durability Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah mengubah pandangan saya saat mendengar sudut pandang lain.",
+      "order": 156
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "Toward",
+      "pertanyaan": "Saya termotivasi oleh tujuan yang ingin saya capai.",
+      "order": 157
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "",
+      "pertanyaan": "Saya fokus pada hasil positif yang ingin diraih.",
+      "order": 158
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih termotivasi untuk menghindari kegagalan.",
+      "order": 159
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "Away From",
+      "pertanyaan": "Saya terdorong untuk menghindari masalah atau risiko.",
+      "order": 160
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "",
+      "pertanyaan": "Menghindari hal buruk menjadi motivasi utama saya.",
+      "order": 161
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 20 — Motivation Direction",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang memikirkan kemungkinan buruk.",
+      "order": 162
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "Necessity",
+      "pertanyaan": "Saya sering merasa “harus” melakukan sesuatu.",
+      "order": 163
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "",
+      "pertanyaan": "Kewajiban menjadi pendorong utama saya.",
+      "order": 164
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang merasa terikat kewajiban.",
+      "order": 165
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "Desire",
+      "pertanyaan": "Saya melakukan sesuatu karena ingin, bukan karena harus.",
+      "order": 166
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "",
+      "pertanyaan": "Keinginan pribadi memotivasi saya.",
+      "order": 167
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 23 — Modal Operators",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang termotivasi oleh keinginan sendiri.",
+      "order": 168
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "People",
+      "pertanyaan": "Saya menikmati bekerja dengan orang lain.",
+      "order": 169
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Interaksi sosial memberi saya energi.",
+      "order": 170
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih nyaman bekerja sendiri.",
+      "order": 171
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "Things",
+      "pertanyaan": "Saya lebih fokus pada alat atau benda daripada orang.",
+      "order": 172
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Mesin atau sistem lebih menarik bagi saya.",
+      "order": 173
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak tertarik pada benda atau alat.",
+      "order": 174
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "Activity",
+      "pertanyaan": "Saya menikmati aktivitas yang membuat saya terus bergerak.",
+      "order": 175
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya suka terlibat langsung dalam kegiatan.",
+      "order": 176
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak suka aktivitas yang sibuk.",
+      "order": 177
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "Information",
+      "pertanyaan": "Saya senang belajar dan mencari informasi baru.",
+      "order": 178
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Pengetahuan membuat saya termotivasi.",
+      "order": 179
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak tertarik mempelajari hal baru.",
+      "order": 180
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "Location",
+      "pertanyaan": "Lingkungan atau tempat sangat memengaruhi kenyamanan saya.",
+      "order": 181
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya memilih aktivitas berdasarkan tempatnya.",
+      "order": 182
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 24 — Preference Sort",
+      "sub_meta": "",
+      "pertanyaan": "Tempat tidak penting bagi saya.",
+      "order": 183
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "Perfectionism",
+      "pertanyaan": "Saya berusaha mencapai hasil yang sempurna.",
+      "order": 184
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kesalahan kecil terasa mengganggu bagi saya.",
+      "order": 185
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Hasil “cukup baik” sudah memuaskan saya.",
+      "order": 186
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "Optimization",
+      "pertanyaan": "Saya mencari hasil terbaik dengan usaha yang realistis.",
+      "order": 187
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Efisiensi penting dalam mencapai tujuan.",
+      "order": 188
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak memikirkan efisiensi hasil.",
+      "order": 189
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "Skepticism",
+      "pertanyaan": "Saya cenderung mempertanyakan standar yang ada.",
+      "order": 190
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak mudah puas dengan klaim hasil.",
+      "order": 191
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 25 — Goal Striving Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya langsung menerima hasil tanpa berpikir kritis.",
+      "order": 192
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "Cost",
+      "pertanyaan": "Harga menjadi pertimbangan utama bagi saya.",
+      "order": 193
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya fokus mencari pilihan yang paling murah.",
+      "order": 194
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Harga tidak penting bagi saya.",
+      "order": 195
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "Time",
+      "pertanyaan": "Kecepatan atau waktu sangat penting bagi saya.",
+      "order": 196
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya memilih yang paling cepat selesai.",
+      "order": 197
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak keberatan menunggu lama.",
+      "order": 198
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "Quality",
+      "pertanyaan": "Kualitas lebih penting daripada harga.",
+      "order": 199
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya memilih yang paling baik meskipun lebih mahal.",
+      "order": 200
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kualitas bukan prioritas saya.",
+      "order": 201
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "Convenience",
+      "pertanyaan": "Kemudahan menjadi pertimbangan utama saya.",
+      "order": 202
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya memilih yang paling praktis.",
+      "order": 203
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 26 — Buying Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak peduli apakah sesuatu itu praktis atau tidak.",
+      "order": 204
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "Under-Responsible",
+      "pertanyaan": "Saya merasa bahwa banyak hal dalam hidup saya sebenarnya lebih disebabkan oleh keadaan atau orang lain daripada keputusan saya sendiri.",
+      "order": 205
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering menunggu arahan atau bantuan sebelum mengambil tanggung jawab atas suatu tugas.",
+      "order": 206
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya terbiasa mengambil tanggung jawab penuh atas setiap keputusan dan konsekuensinya.",
+      "order": 207
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "Responsible",
+      "pertanyaan": "Saya merasa bertanggung jawab atas tindakan saya sendiri tanpa menyalahkan keadaan maupun orang lain.",
+      "order": 208
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mampu menyeimbangkan tanggung jawab terhadap diri sendiri dan terhadap orang lain.",
+      "order": 209
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering menghindari tanggung jawab ketika situasi terasa sulit atau berisiko.",
+      "order": 210
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "Over-Responsible",
+      "pertanyaan": "Saya sering merasa bertanggung jawab atas masalah orang lain walaupun sebenarnya bukan sepenuhnya tugas saya.",
+      "order": 211
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung mengambil alih peran atau beban agar semuanya tetap berjalan dengan baik.",
+      "order": 212
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 27 — Responsibility Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang merasa terbebani oleh masalah atau tanggung jawab di luar diri saya.",
+      "order": 213
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "Extrovert",
+      "pertanyaan": "Berinteraksi dengan orang lain memberi saya energi.",
+      "order": 214
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa segar setelah bersosialisasi.",
+      "order": 215
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Bersosialisasi membuat saya kelelahan.",
+      "order": 216
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "Introvert",
+      "pertanyaan": "Saya merasa segar ketika menghabiskan waktu sendiri.",
+      "order": 217
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Waktu sendiri membantu saya memulihkan energi.",
+      "order": 218
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Waktu sendiri justru membuat saya lelah.",
+      "order": 219
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "Ambivert",
+      "pertanyaan": "Saya menikmati waktu sendiri dan bersosialisasi.",
+      "order": 220
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Keduanya sama-sama penting bagi saya.",
+      "order": 221
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 29 — Rejuvenation of Battery",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya nyaman pada salah satu saja.",
+      "order": 222
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "Things",
+      "pertanyaan": "Saya menikmati pekerjaan yang berhubungan dengan benda, alat, atau hasil fisik yang bisa dilihat secara nyata.",
+      "order": 223
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa lebih puas ketika bekerja dengan objek atau materi dibandingkan berinteraksi dengan orang.",
+      "order": 224
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya kurang tertarik pada pekerjaan yang melibatkan benda atau alat secara langsung.",
+      "order": 225
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "Systems",
+      "pertanyaan": "Saya menyukai pekerjaan yang melibatkan aturan, struktur, dan alur kerja yang jelas.",
+      "order": 226
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa nyaman bekerja dengan sistem, prosedur, atau mekanisme yang teratur.",
+      "order": 227
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih suka bekerja tanpa aturan atau sistem yang jelas.",
+      "order": 228
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "People",
+      "pertanyaan": "Saya merasa lebih bersemangat ketika pekerjaan saya melibatkan interaksi dengan orang lain.",
+      "order": 229
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Membantu, mempengaruhi, atau berkomunikasi dengan orang lain memberi makna pada pekerjaan saya.",
+      "order": 230
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih menyukai pekerjaan tanpa banyak berinteraksi dengan orang lain.",
+      "order": 231
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "Information",
+      "pertanyaan": "Saya menikmati pekerjaan yang berfokus pada pengolahan informasi, data, atau pengetahuan.",
+      "order": 232
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Menganalisis, membaca, atau memahami informasi merupakan bagian pekerjaan yang saya sukai.",
+      "order": 233
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 34 – Work Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya kurang tertarik pada pekerjaan yang berhubungan dengan data atau informasi.",
+      "order": 234
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "Power",
+      "pertanyaan": "Saya terdorong untuk memiliki pengaruh atau kendali dalam suatu kelompok.",
+      "order": 235
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Posisi yang memberi kewenangan penting bagi saya.",
+      "order": 236
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak tertarik memiliki pengaruh atau kendali atas orang lain.",
+      "order": 237
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "Affiliation",
+      "pertanyaan": "Saya mengutamakan hubungan yang harmonis dalam kelompok.",
+      "order": 238
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Diterima dan menjadi bagian dari kelompok penting bagi saya.",
+      "order": 239
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak terlalu peduli dengan hubungan dalam kelompok.",
+      "order": 240
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "Achievement",
+      "pertanyaan": "Saya terdorong untuk terus mencapai hasil yang lebih baik dari sebelumnya.",
+      "order": 241
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Keberhasilan menjadi ukuran penting bagi saya.",
+      "order": 242
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 39 – Hierarchical Dominance",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak terlalu memikirkan pencapaian pribadi.",
+      "order": 243
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "Needs",
+      "pertanyaan": "Saya mengambil keputusan berdasarkan apa yang membuat saya merasa aman, nyaman, dan dihargai secara emosional.",
+      "order": 244
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "",
+      "pertanyaan": "Perasaan saya menjadi pertimbangan utama saat menentukan pilihan penting dalam hidup.",
+      "order": 245
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang mempertimbangkan perasaan atau kebutuhan emosional ketika mengambil keputusan.",
+      "order": 246
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "Beliefs",
+      "pertanyaan": "Saya berusaha mengambil keputusan berdasarkan prinsip dan keyakinan yang saya pegang.",
+      "order": 247
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tetap mempertahankan prinsip meskipun secara emosional terasa tidak nyaman.",
+      "order": 248
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 40 – Value Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih sering mengikuti perasaan daripada keyakinan yang saya miliki.",
+      "order": 249
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "Compliant",
+      "pertanyaan": "Saya merasa nyaman mengikuti arahan dan aturan yang telah ditetapkan.",
+      "order": 250
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "",
+      "pertanyaan": "Instruksi yang jelas membantu saya bekerja dengan lebih efektif.",
+      "order": 251
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "",
+      "pertanyaan": "Saya kesulitan mengikuti aturan atau instruksi.",
+      "order": 252
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "Strong-Willed",
+      "pertanyaan": "Saya cenderung mempertahankan pendapat sendiri meskipun ada arahan berbeda.",
+      "order": 253
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak mudah menerima instruksi yang tidak saya pahami atau setujui.",
+      "order": 254
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 41 – Temper to Instruction",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu mengikuti instruksi tanpa mempertimbangkan pendapat sendiri.",
+      "order": 255
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "Strong Super-Ego",
+      "pertanyaan": "Saya berpegang kuat pada prinsip moral.",
+      "order": 256
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "",
+      "pertanyaan": "Nilai benar–salah sangat jelas bagi saya.",
+      "order": 257
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah mengabaikan prinsip demi keuntungan.",
+      "order": 258
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "Weak Super-Ego",
+      "pertanyaan": "Saya fleksibel terhadap aturan moral.",
+      "order": 259
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "",
+      "pertanyaan": "Situasi menentukan apa yang benar bagi saya.",
+      "order": 260
+    },
+    {
+      "kategori": "THE VOLITIONAL META-PROGRAMS",
+      "meta_program": "MP 50 — Morality Sort",
+      "sub_meta": "",
+      "pertanyaan": "Prinsip moral selalu menjadi pedoman utama saya.",
+      "order": 261
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "Verbal",
+      "pertanyaan": "Saya lebih nyaman menyampaikan ide melalui kata-kata yang jelas dan terstruktur.",
+      "order": 262
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "",
+      "pertanyaan": "Penjelasan lisan atau tulisan membantu saya menyampaikan pesan dengan tepat.",
+      "order": 263
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak suka menjelaskan sesuatu dengan kata-kata.",
+      "order": 264
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "Non-Verbal",
+      "pertanyaan": "Saya sering menggunakan ekspresi wajah atau bahasa tubuh saat berkomunikasi.",
+      "order": 265
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "",
+      "pertanyaan": "Isyarat non-verbal membantu saya memahami pesan orang lain.",
+      "order": 266
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 12 — Communication Channel Preference",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya mengandalkan kata-kata saat berkomunikasi.",
+      "order": 267
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "Internal Reference",
+      "pertanyaan": "Saya menilai keberhasilan berdasarkan standar diri sendiri.",
+      "order": 268
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "",
+      "pertanyaan": "Keyakinan pribadi menjadi dasar penilaian saya.",
+      "order": 269
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu membutuhkan penilaian orang lain.",
+      "order": 270
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "External Reference",
+      "pertanyaan": "Saya merasa yakin jika ada pengakuan dari orang lain.",
+      "order": 271
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "",
+      "pertanyaan": "Penilaian orang lain memengaruhi cara saya melihat diri sendiri.",
+      "order": 272
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 14 — Referencing Style",
+      "sub_meta": "",
+      "pertanyaan": "Pendapat orang lain tidak pernah memengaruhi saya.",
+      "order": 273
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "Active",
+      "pertanyaan": "Saya cenderung langsung bertindak ketika menghadapi situasi baru.",
+      "order": 274
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Bergerak dan bertindak membuat saya merasa lebih nyaman.",
+      "order": 275
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih suka menunggu daripada bertindak.",
+      "order": 276
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "Inactive",
+      "pertanyaan": "Saya lebih memilih berpikir dulu sebelum bertindak.",
+      "order": 277
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya nyaman menahan diri untuk tidak langsung bereaksi.",
+      "order": 278
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu segera bertindak tanpa berpikir.",
+      "order": 279
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "Reactive",
+      "pertanyaan": "Saya bereaksi setelah ada dorongan atau rangsangan dari luar.",
+      "order": 280
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Lingkungan sering menentukan reaksi saya.",
+      "order": 281
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 16 — Somatic Response Style",
+      "sub_meta": "",
+      "pertanyaan": "Saya bertindak tanpa dipengaruhi lingkungan sekitar.",
+      "order": 282
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "Trusting",
+      "pertanyaan": "Saya cenderung mudah mempercayai orang lain.",
+      "order": 283
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya percaya niat orang biasanya baik.",
+      "order": 284
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang mempercayai orang.",
+      "order": 285
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "Distrusting",
+      "pertanyaan": "Saya berhati-hati sebelum mempercayai orang.",
+      "order": 286
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya perlu bukti sebelum percaya.",
+      "order": 287
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 28 — People Convincer Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya langsung percaya tanpa pertimbangan.",
+      "order": 288
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "No-Team",
+      "pertanyaan": "Saya lebih nyaman bekerja sendiri tanpa harus bergantung pada kerja tim.",
+      "order": 289
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa hasil kerja saya lebih optimal jika saya mengerjakannya secara mandiri.",
+      "order": 290
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu membutuhkan tim untuk bisa bekerja dengan baik.",
+      "order": 291
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "Team & Self",
+      "pertanyaan": "Saya menyukai kerja tim, tetapi tetap membutuhkan ruang untuk bekerja secara mandiri.",
+      "order": 292
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa seimbang ketika bisa berkontribusi dalam tim sekaligus mempertahankan cara kerja sendiri.",
+      "order": 293
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya ingin bekerja sendiri dan tidak tertarik dengan kerja tim.",
+      "order": 294
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "Team",
+      "pertanyaan": "Saya merasa lebih termotivasi ketika bekerja bersama orang lain dalam satu tim.",
+      "order": 295
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Keputusan yang dibuat bersama tim biasanya terasa lebih tepat bagi saya dibanding keputusan pribadi.",
+      "order": 296
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 30 – Affiliation & Management",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa tidak nyaman ketika harus berkoordinasi atau bekerja dengan orang lain.",
+      "order": 297
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "Placator",
+      "pertanyaan": "Saya sering mengalah demi menjaga hubungan tetap harmonis meskipun pendapat saya berbeda.",
+      "order": 298
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung menyesuaikan diri agar orang lain merasa nyaman dalam berkomunikasi.",
+      "order": 299
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu menyampaikan pendapat saya tanpa memedulikan perasaan orang lain.",
+      "order": 300
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "Blamer",
+      "pertanyaan": "Saat terjadi masalah, saya cenderung fokus pada siapa yang bertanggung jawab atas kesalahan tersebut.",
+      "order": 301
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa perlu menunjukkan kesalahan orang lain agar tidak terjadi kembali.",
+      "order": 302
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang menyalahkan orang lain walaupun terjadi kesalahan.",
+      "order": 303
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "Distractor",
+      "pertanyaan": "Ketika suasana menjadi tegang, saya sering mengalihkan pembicaraan agar situasi terasa lebih ringan.",
+      "order": 304
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung menghindari pembahasan masalah yang terlalu serius.",
+      "order": 305
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu fokus dan serius membahas masalah sampai tuntas.",
+      "order": 306
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "Computer",
+      "pertanyaan": "Saya lebih memilih berbicara secara logis dan terstruktur tanpa melibatkan emosi.",
+      "order": 307
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa nyaman menjelaskan sesuatu dengan data dan alasan rasional.",
+      "order": 308
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering mengekspresikan emosi secara terbuka saat berdiskusi.",
+      "order": 309
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "Leveler",
+      "pertanyaan": "Saya berusaha berkomunikasi secara jujur dan terbuka tanpa menyalahkan atau menghindar.",
+      "order": 310
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya mampu menyampaikan perasaan dan pendapat dengan cara yang seimbang.",
+      "order": 311
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 31 – Communication Stance",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa sulit menyampaikan pendapat secara jujur dan terbuka.",
+      "order": 312
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "Active",
+      "pertanyaan": "Ketika menghadapi situasi tertentu, tubuh saya secara spontan langsung bergerak atau bertindak.",
+      "order": 313
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya mengekspresikan respons saya melalui tindakan fisik yang terlihat.",
+      "order": 314
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya cenderung menahan diri tanpa menunjukkan respons tubuh.",
+      "order": 315
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "Reflective",
+      "pertanyaan": "Saya merespons situasi dengan memperhatikan apa yang saya rasakan di dalam tubuh terlebih dahulu.",
+      "order": 316
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya memberi waktu pada diri sendiri untuk menyadari sensasi tubuh sebelum bertindak.",
+      "order": 317
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya langsung bertindak tanpa memperhatikan apa yang saya rasakan secara fisik.",
+      "order": 318
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "Both",
+      "pertanyaan": "Saya mampu merespons dengan tindakan sekaligus menyadari apa yang saya rasakan di tubuh.",
+      "order": 319
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Respons saya biasanya seimbang antara bergerak dan merefleksikan sensasi tubuh.",
+      "order": 320
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya merespons dengan satu cara, tanpa keseimbangan antara tindakan dan refleksi.",
+      "order": 321
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "Inactive",
+      "pertanyaan": "Saya sering tetap diam atau tidak banyak bergerak saat menghadapi suatu situasi.",
+      "order": 322
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Tubuh saya jarang menunjukkan reaksi fisik yang terlihat ketika merespons sesuatu.",
+      "order": 323
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 33 – Somatic Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya langsung bereaksi secara fisik ketika terjadi sesuatu.",
+      "order": 324
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "Shrewd & Artful",
+      "pertanyaan": "Saya menyesuaikan cara menampilkan diri tergantung pada situasi sosial.",
+      "order": 325
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "",
+      "pertanyaan": "Saya memperhatikan kesan yang saya berikan kepada orang lain.",
+      "order": 326
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu menampilkan diri apa adanya tanpa mempertimbangkan kesan.",
+      "order": 327
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "Genuine & Artless",
+      "pertanyaan": "Saya merasa nyaman bersikap apa adanya saat berinteraksi dengan orang lain.",
+      "order": 328
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak terlalu memikirkan citra diri ketika berinteraksi sosial.",
+      "order": 329
+    },
+    {
+      "kategori": "COMMUNICATION META-PROGRAMS",
+      "meta_program": "MP 38 – Social Presentation",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering mengatur cara tampil agar terlihat tertentu di depan orang lain.",
+      "order": 330
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Congruent",
+      "pertanyaan": "Perkataan, perasaan, dan tindakan saya biasanya sejalan satu sama lain dalam berbagai situasi.",
+      "order": 331
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Orang lain melihat saya sebagai pribadi yang konsisten antara apa yang saya pikirkan dan lakukan.",
+      "order": 332
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering mengatakan sesuatu tetapi bertindak dengan cara yang berbeda.",
+      "order": 333
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Incongruent",
+      "pertanyaan": "Saya kerap merasakan ketidaksesuaian antara apa yang saya pikirkan dan apa yang saya lakukan.",
+      "order": 334
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Dalam situasi tertentu, perilaku saya bisa bertentangan dengan nilai yang saya yakini.",
+      "order": 335
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya biasanya bertindak sesuai dengan pikiran dan perasaan saya.",
+      "order": 336
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Competitive",
+      "pertanyaan": "Saya terdorong untuk menjadi lebih unggul dibanding orang lain dalam banyak situasi.",
+      "order": 337
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Keberhasilan orang lain sering menjadi pemicu bagi saya untuk berusaha lebih keras.",
+      "order": 338
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak tertarik untuk bersaing atau membandingkan diri dengan orang lain.",
+      "order": 339
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Cooperative",
+      "pertanyaan": "Saya lebih nyaman bekerja sama daripada berkompetisi dengan orang lain.",
+      "order": 340
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa tujuan bersama lebih penting daripada kemenangan pribadi.",
+      "order": 341
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih fokus pada hasil pribadi dibanding kerja sama dengan orang lain.",
+      "order": 342
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Polarity",
+      "pertanyaan": "Saya cenderung melihat suatu situasi dari sisi yang berlawanan seperti benar–salah atau hitam–putih.",
+      "order": 343
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Dalam mengambil keputusan, saya sering memilih satu posisi yang jelas dan tegas.",
+      "order": 344
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya mudah menerima bahwa dua sudut pandang yang bertentangan bisa sama-sama benar.",
+      "order": 345
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "Meta",
+      "pertanyaan": "Saya terbiasa mengamati dan mengevaluasi cara saya sendiri dalam berpikir dan bertindak.",
+      "order": 346
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya mampu mengambil jarak dari situasi untuk melihatnya secara lebih luas.",
+      "order": 347
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 32 – General Response",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang merefleksikan pola perilaku atau respons saya sendiri.",
+      "order": 348
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Mind",
+      "pertanyaan": "Saya mendefinisikan diri saya melalui cara berpikir dan keyakinan saya.",
+      "order": 349
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Pikiran dan sudut pandang sangat membentuk siapa diri saya.",
+      "order": 350
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Cara berpikir tidak terlalu memengaruhi bagaimana saya melihat diri sendiri.",
+      "order": 351
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Emotion",
+      "pertanyaan": "Saya melihat diri saya melalui perasaan dan emosi yang saya alami.",
+      "order": 352
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Emosi merupakan bagian penting dari identitas diri saya.",
+      "order": 353
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Perasaan tidak terlalu memengaruhi cara saya melihat diri sendiri.",
+      "order": 354
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Will",
+      "pertanyaan": "Saya mendefinisikan diri saya melalui kemauan dan tekad yang saya miliki.",
+      "order": 355
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kemampuan untuk bertahan dan berusaha penting dalam membentuk diri saya.",
+      "order": 356
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Tekad dan kemauan tidak terlalu mencerminkan siapa diri saya.",
+      "order": 357
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Body",
+      "pertanyaan": "Kondisi fisik dan tubuh memengaruhi cara saya melihat diri sendiri.",
+      "order": 358
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa tubuh saya merupakan bagian penting dari identitas diri.",
+      "order": 359
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Tubuh tidak terlalu berperan dalam cara saya mendefinisikan diri.",
+      "order": 360
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Roles",
+      "pertanyaan": "Saya mendefinisikan diri saya berdasarkan peran yang saya jalani.",
+      "order": 361
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Peran sosial atau profesional sangat memengaruhi identitas saya.",
+      "order": 362
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Peran yang saya jalani tidak memengaruhi cara saya melihat diri sendiri.",
+      "order": 363
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "Experience",
+      "pertanyaan": "Pengalaman hidup membentuk cara saya memahami diri saya sendiri.",
+      "order": 364
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Kejadian yang saya alami memberi makna besar pada identitas diri saya.",
+      "order": 365
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 44 — Status Sort",
+      "sub_meta": "",
+      "pertanyaan": "Pengalaman masa lalu tidak banyak memengaruhi siapa diri saya sekarang.",
+      "order": 366
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "Conflicted Incongruity",
+      "pertanyaan": "Saya sering merasa tindakan saya tidak sejalan dengan nilai yang saya yakini.",
+      "order": 367
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "",
+      "pertanyaan": "Ada konflik batin antara apa yang saya percaya dan apa yang saya lakukan.",
+      "order": 368
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "",
+      "pertanyaan": "Tindakan saya umumnya selaras dengan nilai pribadi saya.",
+      "order": 369
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "Harmonious Integration",
+      "pertanyaan": "Saya menjalani hidup dengan selaras antara nilai, pikiran, dan tindakan.",
+      "order": 370
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "",
+      "pertanyaan": "Saya merasa cukup utuh dan konsisten sebagai pribadi.",
+      "order": 371
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 45 – Self-Integrity",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering merasa terpecah antara nilai dan tindakan saya.",
+      "order": 372
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "Past",
+      "pertanyaan": "Pengalaman masa lalu sering menjadi acuan saya.",
+      "order": 373
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering memikirkan kejadian yang telah berlalu.",
+      "order": 374
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang memikirkan masa lalu.",
+      "order": 375
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "Present",
+      "pertanyaan": "Saya fokus pada apa yang terjadi saat ini.",
+      "order": 376
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Menikmati momen sekarang penting bagi saya.",
+      "order": 377
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang memperhatikan apa yang sedang terjadi sekarang.",
+      "order": 378
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "Future",
+      "pertanyaan": "Saya sering memikirkan rencana masa depan.",
+      "order": 379
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Tujuan jangka panjang penting bagi saya.",
+      "order": 380
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 46 – Time Processing",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang memikirkan masa depan.",
+      "order": 381
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "In Time",
+      "pertanyaan": "Saya mudah larut dalam aktivitas yang saya lakukan.",
+      "order": 382
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "",
+      "pertanyaan": "Saat fokus, saya sering lupa waktu.",
+      "order": 383
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu menyadari waktu saat beraktivitas.",
+      "order": 384
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "Through Time",
+      "pertanyaan": "Saya selalu menyadari alur waktu saat melakukan sesuatu.",
+      "order": 385
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "",
+      "pertanyaan": "Saya terbiasa mengatur jadwal secara rapi.",
+      "order": 386
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 47 – Time Experience",
+      "sub_meta": "",
+      "pertanyaan": "Saya sering lupa waktu ketika melakukan sesuatu.",
+      "order": 387
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "Sequential",
+      "pertanyaan": "Saya lebih nyaman mengerjakan tugas secara berurutan.",
+      "order": 388
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "",
+      "pertanyaan": "Langkah teratur memudahkan saya bekerja.",
+      "order": 389
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya suka mengerjakan banyak hal tanpa urutan.",
+      "order": 390
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "Random",
+      "pertanyaan": "Saya dapat berpindah tugas dengan mudah tanpa urutan tetap.",
+      "order": 391
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya tidak selalu mengikuti urutan saat bekerja.",
+      "order": 392
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 48 — Time Access Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya selalu membutuhkan urutan yang jelas.",
+      "order": 393
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Causeless",
+      "pertanyaan": "Saya merasa banyak hal dalam hidup terjadi begitu saja tanpa alasan tertentu.",
+      "order": 394
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Tidak semua kejadian menurut saya bisa dijelaskan secara logis.",
+      "order": 395
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya percaya bahwa setiap kejadian pasti memiliki sebab yang jelas.",
+      "order": 396
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Linear Cause-Effect",
+      "pertanyaan": "Saya percaya bahwa setiap hasil berasal dari penyebab tertentu yang jelas.",
+      "order": 397
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Jika suatu masalah terjadi, saya biasanya mencari satu penyebab utamanya.",
+      "order": 398
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya jarang menganggap suatu hasil berasal dari satu sebab tertentu.",
+      "order": 399
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Multi Cause-Effect",
+      "pertanyaan": "Saya melihat suatu kejadian sebagai hasil dari banyak faktor yang saling berkaitan.",
+      "order": 400
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Dalam menilai masalah, saya mempertimbangkan berbagai penyebab yang mungkin.",
+      "order": 401
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya lebih suka mencari satu penyebab tunggal daripada mempertimbangkan banyak faktor.",
+      "order": 402
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Personal Cause-Effect",
+      "pertanyaan": "Saya percaya bahwa tindakan saya sangat menentukan hasil yang saya alami.",
+      "order": 403
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya melihat diri saya sebagai penyebab utama keberhasilan atau kegagalan saya.",
+      "order": 404
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Apa yang terjadi pada saya lebih disebabkan oleh faktor luar daripada diri saya sendiri.",
+      "order": 405
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "External Cause-Effect",
+      "pertanyaan": "Saya merasa hasil yang saya alami banyak dipengaruhi oleh situasi dan orang lain.",
+      "order": 406
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Faktor di luar diri saya sering menentukan keberhasilan atau kegagalan saya.",
+      "order": 407
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya percaya bahwa diri saya sendiri adalah penentu utama semua hasil yang saya alami.",
+      "order": 408
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Magical Cause-Effect",
+      "pertanyaan": "Saya percaya bahwa keberuntungan atau nasib memengaruhi apa yang saya alami.",
+      "order": 409
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Ada kejadian tertentu yang menurut saya tidak bisa dijelaskan secara rasional.",
+      "order": 410
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya percaya pada hubungan sebab-akibat yang bisa dijelaskan secara logis.",
+      "order": 411
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "Correlational",
+      "pertanyaan": "Saya melihat hubungan antara kejadian berdasarkan pola yang sering muncul.",
+      "order": 412
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Dua hal bisa saling berkaitan meskipun tidak saling menyebabkan secara langsung.",
+      "order": 413
+    },
+    {
+      "kategori": "HIGHER META-PROGRAM",
+      "meta_program": "MP 51 — Causation Sort",
+      "sub_meta": "",
+      "pertanyaan": "Saya hanya percaya pada hubungan sebab-akibat yang bersifat langsung.",
+      "order": 414
+    }
+  ]
+}

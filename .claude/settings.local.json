@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(php artisan migrate:*)",
+      "Bash(php artisan migrate:fresh:*)",
+      "Bash(php artisan make:model:*)",
+      "Bash(php artisan make:seeder:*)",
+      "Bash(php artisan make:controller:*)",
+      "Bash(php artisan route:list:*)",
+      "Bash(find:*)",
+      "Bash(php artisan make:migration:*)",
+      "Bash(php artisan:*)",
+      "Bash(php:*)",
+      "Bash(composer require:*)"
+    ]
+  }
+}
