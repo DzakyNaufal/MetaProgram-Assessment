@@ -1,0 +1,26 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Bg2XtyRE.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CEW9MmOF.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/js/quiz.js"
+    ]
+  },
+  "resources/js/quiz.js": {
+    "file": "assets/quiz-CEinseOk.js",
+    "name": "quiz",
+    "src": "resources/js/quiz.js",
+    "isEntry": true
+  }
+}
