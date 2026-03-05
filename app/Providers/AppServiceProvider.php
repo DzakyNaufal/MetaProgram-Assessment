@@ -22,9 +22,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        // Set public path to root directory (no public/ folder in this deployment)
-        app()->usePublicPath(base_path());
-
         Blade::component('admin-layout', \App\View\Components\AdminLayout::class);
 
         if (app()->environment('production')) {
