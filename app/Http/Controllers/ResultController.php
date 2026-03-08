@@ -1118,11 +1118,8 @@ class ResultController extends Controller
         file_put_contents($newPdfPath, $newPdfContent);
 
         // Path ke PDF yang sudah ada - "REPORT Ur-BrainDevPro.pdf"
-        // Sesuaikan lokasi folder sesuai dengan tempat Anda menyimpan file
-        $existingPdfPath = storage_path('app/REPORT Ur-BrainDevPro.pdf');
-        // Jika file ada di folder lain, uncomment salah satu:
-        // $existingPdfPath = public_path('REPORT Ur-BrainDevPro.pdf');
-        // $existingPdfPath = base_path('REPORT Ur-BrainDevPro.pdf');
+        // File ada di root project (base_path)
+        $existingPdfPath = base_path('REPORT Ur-BrainDevPro.pdf');
 
         // Check if existing PDF exists
         if (file_exists($existingPdfPath)) {
