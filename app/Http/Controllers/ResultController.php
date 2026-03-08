@@ -1115,34 +1115,12 @@ class ResultController extends Controller
         // Generate the new PDF content to a temporary file
         $newPdfContent = $pdf->output();
         $newPdfPath = storage_path('app/temp_new_report_' . $attempt->id . '.pdf');
-
-        // Ensure storage/app directory exists and is writable
-        $storageDir = storage_path('app');
-        if (!is_dir($storageDir)) {
-            mkdir($storageDir, 0755, true);
-        }
-
-        $bytesWritten = file_put_contents($newPdfPath, $newPdfContent);
-        if ($bytesWritten === false) {
-            \Log::error('Failed to write temp PDF file', ['path' => $newPdfPath]);
-            abort(500, 'Failed to generate PDF file');
-        }
+        file_put_contents($newPdfPath, $newPdfContent);
 
         // Path ke PDF yang sudah ada - "REPORT Ur-BrainDevPro.pdf"
-        // Cek di storage/app/ dulu (fallback ke base_path)
         $existingPdfPath = storage_path('app/REPORT Ur-BrainDevPro.pdf');
 
-        // Fallback ke root jika tidak ada di storage
-        if (!file_exists($existingPdfPath)) {
-            $existingPdfPath = base_path('REPORT Ur-BrainDevPro.pdf');
-        }
-
         // Check if existing PDF exists
-        if (!file_exists($existingPdfPath)) {
-            \Log::error('Template PDF not found', ['path' => $existingPdfPath]);
-            abort(500, 'PDF template not found');
-        }
-
         if (file_exists($existingPdfPath)) {
             // Use FPDI to merge PDFs
             $fpdi = new Fpdi();
