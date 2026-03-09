@@ -12,19 +12,19 @@
                         $activePurchases = auth()->user()->activePurchases()->with('course')->get();
                     @endphp
                     @if ($activePurchases->count() > 0)
-                        <div class="mb-8 p-4 bg-green-50 border border-green-200 rounded-lg">
-                            <h2 class="text-lg font-semibold text-green-800 mb-2">Course Aktif</h2>
+                        <div class="p-4 mb-8 border border-green-200 rounded-lg bg-green-50">
+                            <h2 class="mb-2 text-lg font-semibold text-green-800">Course Aktif</h2>
                             @foreach ($activePurchases as $purchase)
                                 @if ($purchase->course)
                                 <div class="flex items-center justify-between">
                                     <div>
                                         <span class="font-medium text-green-700">{{ $purchase->course->title }}</span>
                                         @if ($purchase->expired_at)
-                                            <span class="text-sm text-green-600 ml-2">
+                                            <span class="ml-2 text-sm text-green-600">
                                                 (Berlaku sampai {{ $purchase->expired_at->format('d M Y') }})
                                             </span>
                                         @else
-                                            <span class="text-sm text-green-600 ml-2">(Lifetime)</span>
+                                            <span class="ml-2 text-sm text-green-600">(Lifetime)</span>
                                         @endif
                                     </div>
                                     @if ($purchase->course->has_whatsapp_consultation)
@@ -42,9 +42,9 @@
                             @endforeach
                         </div>
                     @else
-                        <div class="mb-8 p-4 bg-blue-50 border border-blue-200 rounded-lg">
-                            <h2 class="text-lg font-semibold text-blue-800 mb-2">Course Premium</h2>
-                            <p class="text-blue-700 mb-2">Anda belum memiliki course premium. Upgrade untuk akses course lengkap dan konsultasi!</p>
+                        <div class="p-4 mb-8 border border-blue-200 rounded-lg bg-blue-50">
+                            <h2 class="mb-2 text-lg font-semibold text-blue-800">Course Premium</h2>
+                            <p class="mb-2 text-blue-700">Anda belum memiliki course premium. Upgrade untuk akses course lengkap dan konsultasi!</p>
                             <a href="{{ route('pricing') }}" class="inline-block px-4 py-2 font-semibold text-white bg-blue-500 rounded-lg hover:bg-blue-600">
                                 Lihat Course
                             </a>

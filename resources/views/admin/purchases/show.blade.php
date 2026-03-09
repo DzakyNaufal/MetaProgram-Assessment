@@ -235,9 +235,9 @@
             <div x-show="show" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-200" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="fixed inset-0 bg-black/60 backdrop-blur-sm" @click="show = false"></div>
 
             <!-- Modal Content -->
-            <div x-show="show" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="transition ease-in duration-200" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95" class="relative bg-white rounded-3xl shadow-2xl max-w-md w-full mx-4 overflow-hidden">
+            <div x-show="show" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="transition ease-in duration-200" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95" class="relative w-full max-w-md mx-4 overflow-hidden bg-white shadow-2xl rounded-3xl">
                 <!-- Header with Success Icon -->
-                <div class="bg-gradient-to-r from-green-500 to-green-600 px-6 py-5">
+                <div class="px-6 py-5 bg-gradient-to-r from-green-500 to-green-600">
                     <div class="flex items-center">
                         <div class="flex items-center justify-center w-12 h-12 bg-white/20 rounded-xl backdrop-blur-sm">
                             <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -253,8 +253,8 @@
 
                 <!-- Body -->
                 <div class="px-6 py-5">
-                    <p class="text-gray-600 mb-3">Apakah Anda yakin ingin mengkonfirmasi pembayaran ini?</p>
-                    <div class="p-3 bg-green-50 border border-green-200 rounded-xl mb-4">
+                    <p class="mb-3 text-gray-600">Apakah Anda yakin ingin mengkonfirmasi pembayaran ini?</p>
+                    <div class="p-3 mb-4 border border-green-200 bg-green-50 rounded-xl">
                         <div class="grid grid-cols-2 gap-2 text-sm">
                             <div>
                                 <p class="text-gray-500">Jumlah</p>
@@ -270,7 +270,7 @@
                 </div>
 
                 <!-- Footer -->
-                <div class="px-6 py-4 bg-gray-50 flex gap-3 justify-end">
+                <div class="flex justify-end gap-3 px-6 py-4 bg-gray-50">
                     <button type="button" @click="show = false" class="px-5 py-2.5 text-sm font-semibold text-gray-700 bg-white border border-gray-300 rounded-xl hover:bg-gray-50 transition-all">
                         Batal
                     </button>
