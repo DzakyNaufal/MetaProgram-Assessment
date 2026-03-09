@@ -36,7 +36,7 @@
 
             <div class="relative z-10 text-center">
                 <div class="mb-8">
-                    <h1 class="mb-4 text-4xl font-bold md:text-5xl">Talent Mapping & Assessment</h1>
+                    <h1 class="mb-4 text-4xl font-bold md:text-5xl">Meta Program & Assessment</h1>
                     <p class="max-w-md mx-auto text-xl text-blue-100">Temukan potensi tersembunyi Anda dan tingkatkan
                         karier Anda</p>
                 </div>
@@ -64,7 +64,7 @@
                             class="flex items-center justify-center w-16 h-16 mx-auto rounded-full bg-gradient-to-r from-blue-500 to-blue-700">
                             <i class="text-2xl text-white fas fa-chart-line"></i>
                         </div>
-                        <h2 class="mt-4 text-2xl font-bold text-gray-800">Talent Mapping & Assessment</h2>
+                        <h2 class="mt-4 text-2xl font-bold text-gray-800">Meta Program & Assessment</h2>
                     </a>
                 </div>
 
@@ -73,7 +73,7 @@
                 </div>
 
                 <div class="mt-6 text-sm text-center text-gray-600">
-                    &copy; {{ date('Y') }} Talent Mapping & Assessment. All rights reserved.
+                    &copy; {{ date('Y') }} Meta Program & Assessment. All rights reserved.
                 </div>
             </div>
         </div>
