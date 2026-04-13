@@ -25,8 +25,8 @@ class HomeController extends Controller
 
         $faqs = [
             [
-                'question' => 'Apa itu Talent Mapping?',
-                'answer' => 'Talent Mapping adalah proses mengidentifikasi dan menganalisis potensi serta kemampuan individu untuk mencocokkan mereka dengan peran yang paling sesuai.'
+                'question' => 'Apa itu Meta Program?',
+                'answer' => 'Meta Program adalah platform assessment yang dirancang untuk mengukur potensi, kemampuan, dan mengembangkan karir individu dengan metode ilmiah teruji.'
             ],
             [
                 'question' => 'Berapa lama proses assessment?',
